@@ -1,2 +1,4 @@
 .DS_Store
 demo/pom.xml
+demo/.idea/
+demo/demo.iml
